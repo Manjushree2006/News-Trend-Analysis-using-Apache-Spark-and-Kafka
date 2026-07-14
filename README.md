@@ -104,6 +104,3 @@ This project leverages Apache Spark for distributed data processing and Apache K
 B.Tech – Data Science  
 Vidyashilp University
 
----
-
-⭐ If you found this project helpful, feel free to star this repository.
